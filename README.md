@@ -9,3 +9,4 @@ a.	Variabel Fuzzy, adalah variabel yang akan dibahas dalam suatu sistem fuzzy
 b.	Himpunan Fuzzy, yaitu kelompok yang mewakili suatu keadaan tertentu dalam variabel fuzzy, umumnya menggunakan himpunan linguistik.
 c.	Semesta Pembicaraan, yaitu keseluruhan nilai yang diperbolehkan untuk dioperasikan dengan variabel fuzzy
 d.	Domain himpunan Fuzzy, yaitu seluruh nilai yang diijinkan dalam semesta pembicaraan dan boleh dioperasikan dalam suatu himpunan fuzzy
+
